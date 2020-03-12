@@ -1,16 +1,4 @@
-##### Web Brute Force #####
-##### CNS-380/597 Advanced Cybersecurity Automation - Ryan Haley####
-### Conrad Mordzinski ####
-
-
-
-'''
-#1)
-Visit and complete levels 0 - 10 of the Natas challenges. Attached is a setup guide for Burp.  You may use Google for this assignment if you wish for examples how to get the passwords, or reach out to me with questions.
-
-For levels 0,4,5,6,7,8,9 and 10 write your solution using python. (I shold be able to run your .py file and it should perform an action against the natas server that results in the password for the next level)
-
-http://overthewire.org/wargames/natas/
+'''http://overthewire.org/wargames/natas/
 '''
 
 import requests
